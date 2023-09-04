@@ -1,0 +1,136 @@
+@import './base.css';
+@import './header.css';
+@import './footer.css';
+
+/* Main */
+
+p, #submit {
+    font-size: 1.6em;
+    font-family: "Agdasima";
+}
+
+label {
+    font-size: 1.3em;
+    font-family: "Agdasima";
+}
+
+#div-h1 {
+    border-bottom: 1px solid gray;
+    width: 100%;
+}
+
+h1 {
+    font-family: "Raleway";
+    margin: 0px;
+    width: 207px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+section {
+    padding: 10px;
+}
+
+.section {
+    border-top: 1px solid gray;
+}
+
+h2 {
+    font-family: "Raleway";
+}
+
+h2 {
+    margin: 0px;
+}
+
+.présentation {
+    display: block;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.présentation:hover, .logo:hover {
+    opacity: 0.7;
+}
+
+#flex-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-top: 5px;
+    background-color: rgba(185, 34, 52, 0.4);
+    border-radius: 10px;
+    border: 2px solid rgb(185, 34, 51);
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#error-div {
+    flex-shrink: 0;
+}
+
+svg {
+    width: 50px;
+    height: 50px;
+    color: rgb(185, 34, 51);
+}
+
+h3 {
+    color: rgb(185, 34, 51);
+}
+
+form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.input {
+    border: 2px solid rgb(185, 34, 51);
+    border-radius: 5px;
+}
+
+#div-object {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#object {
+    width: 600px;
+}
+
+#div-message {
+    width: 600px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#message {
+    width: 600px;
+    height: 140px;
+}
+
+textarea {
+    resize: none;
+  }
+
+#div-button {
+    width: 142px;
+    margin-right: auto;
+    margin-left: auto;
+}

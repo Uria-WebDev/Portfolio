@@ -1,0 +1,19 @@
+/* Footer */
+
+footer {
+    border-top: 1px solid gray;
+}
+
+#social {
+    padding: 5px;
+    width: 128px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#date {
+    width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+}
