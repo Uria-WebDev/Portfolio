@@ -57,8 +57,40 @@ h2 {
     margin-bottom: 20px;
 }
 
-.présentation:hover, .logo:hover {
+.présentation:hover, .logo:hover, .more-img:hover {
     opacity: 0.7;
+}
+
+.more-div {
+    display: flex;
+    justify-content: center;
+}
+
+.more-img {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    cursor: zoom-in;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.link{
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.link-div{
+    width: 217px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-link{
+    width: 20px;
+    height: 20px;
 }
 
 #flex-div {
