@@ -22,6 +22,7 @@ form.addEventListener("submit", (event) => {
     else {
         deleteFields();
         cancelError();
+        alert('Le mail à été envoyé avec succès');
     }
 
     event.preventDefault();
