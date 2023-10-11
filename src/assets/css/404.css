@@ -1,11 +1,15 @@
 /* Message d'erreur 404 */
 
+#div-notfound {
+    background-color: rgb(253, 248, 252);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 #notfound {
     width: 730px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
     color: rgb(185, 34, 51);
     font-size: 2.5em;
 }
