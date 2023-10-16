@@ -51,11 +51,14 @@ h2 {
     width: 200px;
     height: 300px;
     border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+#présentation1:hover, #présentation2:hover, #présentation3:hover {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
 }
 
 .logo:hover, .more-img:hover {

@@ -28,7 +28,7 @@
                 Première création,<br>
                 Création d'un CV en HTML et CSS :
             </h2>
-            <img src="../assets/img/presentation-CV.png" alt="Image de présentation du CV" class="présentation">
+            <img src="../assets/img/presentation-CV.png" alt="Image de présentation du CV" id="présentation1" class="présentation">
             <div class="develop">
                 <button  @click="open1 = !open1" class="button">Développer</button>
             </div>
@@ -51,7 +51,7 @@
                 Deuxième création,<br>
                 Rédaction d'un cahier des charges :
             </h2>
-            <img src="../assets/img/presentation-cahier.jpg" alt="Image de présentation du cahier des charges" class="présentation">
+            <img src="../assets/img/presentation-cahier.jpg" alt="Image de présentation du cahier des charges" id="présentation2" class="présentation">
             <div class="develop">
                 <button  @click="open2 = !open2" class="button">Développer</button>
             </div>
@@ -66,7 +66,7 @@
                     <a href="../assets/img/cahier_3.jpg" target="_self"><img src="../assets/img/cahier_3.jpg" alt="image 3 du cahier des charges" class="more-img"></a>
                 </div>
                 <div class="link-div2">
-                    <a href="../assets/pdf/Cahier des charges.pdf" target="_blank" class="link">Lien vers le fichier PDF</a>
+                    <a href="../assets/pdf/Cahier-des-charges.pdf" target="_blank" class="link">Lien vers le fichier PDF</a>
                 </div>
             </div>
         </section>
@@ -76,7 +76,7 @@
                 Troisième création,<br>
                 Dynamiser un espace commentaire :
             </h2>
-            <img src="../assets/img/presentation-commentaire.jpg" alt="Image de présentation de l'espace commentaire" class="présentation">
+            <img src="../assets/img/presentation-commentaire.jpg" alt="Image de présentation de l'espace commentaire" id="présentation3" class="présentation">
             <div class="develop">
                 <button  @click="open3 = !open3" class="button">Développer</button>
             </div>
