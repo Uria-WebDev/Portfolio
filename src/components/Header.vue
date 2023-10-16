@@ -7,7 +7,7 @@
 
         <nav>
 
-            <a href="#" id="main-button"><img src="../assets/img/main-page.png" alt="Logo de la page d'accueil" title="Accueil" class="logo"></a>
+            <a href="/" id="main-button"><img src="../assets/img/main-page.png" alt="Logo de la page d'accueil" title="Accueil" class="logo"></a>
           
             <a href="#crea1"><button class="button">Création 1</button></a>
             <a href="#crea2"><button class="button">Création 2</button></a>

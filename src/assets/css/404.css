@@ -1,8 +1,20 @@
 /* Message d'erreur 404 */
 
-#div-notfound {
+#robot-img-div {
     background-color: rgb(253, 248, 252);
     padding-top: 50px;
+}
+
+#robot-img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#div-notfound {
+    background-color: rgb(253, 248, 252);
     padding-bottom: 50px;
 }
 
