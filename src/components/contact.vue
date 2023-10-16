@@ -22,7 +22,7 @@ form.addEventListener("submit", (event) => {
     else {
         deleteFields();
         cancelError();
-        alert('Le mail à été envoyé avec succès');
+        alert('Le mail à été envoyé à ' + import.meta.env.VITE_MY_VARIABLE + ' avec succès');
     }
 
     event.preventDefault();
