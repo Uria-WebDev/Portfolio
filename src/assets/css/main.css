@@ -71,10 +71,19 @@ h2 {
 }
 
 .develop {
-    width: 183px;
+    width: 293px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+}
+
+.width-div {
+    padding-top: 50px;
+    background-color: rgb(253, 248, 252);
+}
+
+.width {
+    width: 100%;
 }
 
 .position-fix {

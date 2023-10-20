@@ -9,7 +9,7 @@
 
         <div id="date">
             <small>
-                Dernière mise à jour le <time datetime="2023-10-16T13:32">Lundi 16 Octobre 2023.</time>
+                Dernière mise à jour le <time datetime="2023-10-20T13:28">Vendredi 20 Octobre 2023.</time>
             </small>
         </div>
 
